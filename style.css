@@ -30,6 +30,7 @@ body {
     color: #ffcc00;
 }
 
+
 .nav-links {
     display: flex;
     list-style: none;
@@ -66,6 +67,7 @@ body {
     align-items: center;
     gap: 0.5vw;
     height: 2.4vw;
+    border: #000000 2px dotted;
 }
 
 
@@ -173,6 +175,7 @@ footer {
     color: black;
     border-radius: 10px;
     margin-top: 2.5vw;
+    border: #000000 2px dotted;
 }
 
 .contect-info {
