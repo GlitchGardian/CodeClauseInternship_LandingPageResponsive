@@ -118,7 +118,7 @@ body {
 }
 
 .subtitle {
-    margin-bottom: 1.5vw;
+    padding: 0.3vw 2vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -126,9 +126,9 @@ body {
 }
 
 .subtitle p {
+    width: 35%;
     color: rgba(214, 211, 211, 0.719);
     font-size: 1vw;
-    width: 35%;
     padding: 1vw;
     text-align: center;
 }
